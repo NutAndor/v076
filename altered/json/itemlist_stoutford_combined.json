@@ -15,5 +15,32 @@
             "increaseCriticalSkill":10,
             "setCriticalMultiplier":2.0
         }
+    },
+    {
+        "id":"stiletto",
+        "iconID":"items_tometik3:33",
+        "name":"Stiletto",
+        "displaytype":"ordinary",
+        "category":"dagger",
+        "equipEffect":{
+            "increaseAttackDamage":{
+                "min":1,
+                "max":4
+            },
+            "increaseAttackCost":4,
+            "increaseAttackChance":17,
+            "increaseCriticalSkill":9,
+            "setCriticalMultiplier":2.5
+        },
+        "killEffect":{
+            "conditionsSource":[
+                {
+                    "condition":"speed_minor",
+                    "magnitude":2,
+                    "duration":2,
+                    "chance":"5"
+                }
+            ]
+        }
     }
 ]
