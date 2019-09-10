@@ -40,12 +40,6 @@
             "increaseBlockChance":2,
             "setCriticalMultiplier":2.5
         },
-        "killEffect":{
-            "increaseCurrentHP":{
-                "min":0,
-                "max":0
-            }
-        }
     },
     {
         "id":"bandage",
