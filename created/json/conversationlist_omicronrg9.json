@@ -1273,7 +1273,7 @@
     },
     {
         "id":"umar_guild02_8",
-        "message":"Nothing unusual about that. But in this case we've discovered that the woman is the daughter of Hertzsen Laumwill, patriarch of the Laumwill family.\n\n(You look around, trying to remember someone ,but nothing comes to you)",
+        "message":"Nothing unusual about that. But in this case we've discovered that the woman is the daughter of Hertzsen Laumwill, patriarch of the Laumwill family.\n\n(You look around, trying to remember someone, but nothing comes to you)",
         "replies":[
             {
                 "text":"N",
@@ -1856,7 +1856,7 @@
     },
     {
         "id":"troublemaker_guild02_6",
-        "message":"I almost forget. Take this key. Make sure you put it in correctly to open the hatchway.",
+        "message":"I almost forgot. Take this key. Make sure you put it in correctly to open the hatchway.",
         "replies":[
             {
                 "text":"You forget many things, right?",
@@ -2117,7 +2117,7 @@
     },
     {
         "id":"ambelie_guild02_8",
-        "message":"Wh...What do you want? What you have done to me? Where in the world am I? Answer me!",
+        "message":"Wh...What do you want? What have you done to me? Where in the world am I? Answer me!",
         "replies":[
             {
                 "text":"That does not concern you.Take this food please.",
@@ -2699,7 +2699,7 @@
     },
     {
         "id":"umar_guild03_8",
-        "message":"Yes. He and his former comrades were sent to Fallhaven catacombs.",
+        "message":"Yes. He and his former comrades were sent to the Fallhaven catacombs.",
         "replies":[
             {
                 "text":"I thought the work there was done since I brought the key of Luthor to you.",
