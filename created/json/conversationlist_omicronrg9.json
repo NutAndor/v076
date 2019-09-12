@@ -825,6 +825,12 @@
                         "requireType":"questProgress",
                         "requireID":"Thieves01",
                         "value":20
+                    },
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"Thieves01",
+                        "value":60,
+                        "negate":true
                     }
                 ]
             },
