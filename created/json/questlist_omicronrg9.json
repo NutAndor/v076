@@ -311,6 +311,10 @@
             {
                 "progress":90,
                 "logText":"Sergeant died."
+            },
+            {
+                "progress":100,
+                "logText":"Gave journals"
             }
         ]
     }

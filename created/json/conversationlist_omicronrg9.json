@@ -890,6 +890,17 @@
                 ]
             },
             {
+                "text":"I gave you the journals, so where's my reward?",
+                "nextPhraseID":"troublemaker_guild_12a",
+                "requires":[
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"thieves_hidden",
+                        "value":100
+                    }
+                ]
+            },
+            {
                 "text":"Almost done.",
                 "nextPhraseID":"troublemaker_guild_11c"
             },
@@ -911,6 +922,13 @@
                 "text":"Yes...So where is my reward?",
                 "nextPhraseID":"troublemaker_guild_12a"
             }
+        ],
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"thieves_hidden",
+                "value":100
+            }
         ]
     },
     {
@@ -920,6 +938,13 @@
             {
                 "text":"N",
                 "nextPhraseID":"troublemaker_guild_12a"
+            }
+        ],
+        "rewards":[
+            {
+                "rewardType":"questProgress",
+                "rewardID":"thieves_hidden",
+                "value":100
             }
         ]
     },
@@ -959,7 +984,7 @@
     },
     {
         "id":"troublemaker_guild_12a",
-        "message":"Anyway, you should talk with Umar. Maybe he has another task... one that's more in your line of work, you know.",
+        "message":"You should talk with Umar. Maybe he has another task... one that's more in your line of work, you know.",
         "replies":[
             {
                 "text":"Sure, I will talk to him.",
@@ -2899,7 +2924,7 @@
     },
     {
         "id":"umar_guild03_18a",
-        "message":"Probably people near the Duleian road guard tower will know more.",
+        "message":"Probably people near the Duleian road guard tower know more. See if you can ask them for tips.",
         "replies":[
             {
                 "text":"Whatever. I'll find him.",
@@ -3511,7 +3536,7 @@
     },
     {
         "id":"FeygardSerg_guild03_4b",
-        "message":"Indeed, I don't know why you are here!",
+        "message":"Indeed, I don't know why are you here!",
         "replies":[
             {
                 "text":"N",
@@ -3531,7 +3556,7 @@
     },
     {
         "id":"FeygardSerg_guild03_6",
-        "message":"We reached these passages via a forest cavern, and went through the beasts without any major problem. Suddenly, the suspect appeared with a group of men, probably his allies or subordinates...",
+        "message":"We reached these passages via a forest cavern, and went through the beasts without any major problem. Suddenly,the suspect appeared with a group of men, probably his allies or subordinates...",
         "replies":[
             {
                 "text":"N",
@@ -3561,7 +3586,7 @@
     },
     {
         "id":"FeygardSerg_guild03_9a",
-        "message":"Don't you understand? You should leave this place while you still can.\n\nHe's playing with us!",
+        "message":"Don't you understand? You must leave this place before you can't.\n\nHe's playing with us!",
         "replies":[
             {
                 "text":"You are right. I will leave.",
@@ -3733,11 +3758,11 @@
     },
     {
         "id":"guild03_crackshot_1",
-        "message":"Oh ho! Welcome to my base, kid.",
+        "message":"Oh ho! Welcome to my base,kid.",
         "switchToNPC":"g03_crackshot",
         "replies":[
             {
-                "text":"Hmm... This is not the place where I would choose to live.",
+                "text":"Hmm...This is not the place where I would choose to live.",
                 "nextPhraseID":"guild03_crackshot_2a"
             },
             {
@@ -4227,7 +4252,7 @@
         "message":"However, the Feygard presence is still significant. Be cautious with with what you do.",
         "replies":[
             {
-                "text":"I will. Thank you for the advice.",
+                "text":"I will, thank you for the advice.",
                 "nextPhraseID":"X"
             },
             {
