@@ -897,6 +897,12 @@
                         "requireType":"questProgress",
                         "requireID":"thieves_hidden",
                         "value":100
+                    },
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"thieves_hidden",
+                        "value":110,
+                        "negate":true
                     }
                 ]
             },
@@ -1005,6 +1011,11 @@
                 "rewardType":"giveItem",
                 "rewardID":"gold",
                 "value":900
+            },
+            {
+                "rewardType":"questProgress",
+                "rewardID":"thieves_hidden",
+                "value":110
             }
         ]
     },

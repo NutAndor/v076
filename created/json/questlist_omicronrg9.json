@@ -315,6 +315,10 @@
             {
                 "progress":100,
                 "logText":"Gave journals"
+            },
+            {
+                "progress":110,
+                "logText":"Got reward"
             }
         ]
     }
