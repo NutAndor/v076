@@ -124,7 +124,7 @@
     },
     {
         "id":"umar_guild_5b",
-        "message":"I understand your doubts.Come back when you're prepared.",
+        "message":"I understand your doubts. Come back when you're prepared.",
         "replies":[
             {
                 "text":"Bye.",
@@ -220,7 +220,7 @@
     },
     {
         "id":"troublemaker_guild_8a",
-        "message":"Good. We have three people on the job.\nThe first one is a spy in Crossglen, Leta. I believe you know her.\nOne of our veteran spies, Dunla, is disguised as a vendor in Vilegard Tavern.\nAnd finally we have Fanamor, watching what is happening around Crossroads Guardhouse.",
+        "message":"Good. We have three people on the job.\nThe first one is a spy in Crossglen, Leta. I believe you know her.\nOne of our veteran spies, Dunla, is disguised as a vendor in Vilegard Tavern.\nAnd finally we have Fanamor, watching what is happening around Crossroads Guardhouse. Search for them in this order.",
         "replies":[
             {
                 "text":"Anything else?",
@@ -325,7 +325,7 @@
                 "nextPhraseID":"S"
             },
             {
-                "text":"Ok,bye.",
+                "text":"Ok, bye.",
                 "nextPhraseID":"X"
             }
         ]
@@ -652,7 +652,7 @@
         "message":"Have you brought me that bandage?",
         "replies":[
             {
-                "text":"Yes,I have it!",
+                "text":"Yes, I have it!",
                 "nextPhraseID":"fanamor_guild_9a",
                 "requires":[
                     {
@@ -976,7 +976,7 @@
     },
     {
         "id":"troublemaker_guild_12b",
-        "message":"You have to retrieve information from our spies.\nThe first one is Fanamor, watching around Crossroads Guardhouse.\nOne of our veteran spies, Dunla, is disguised as a vendor in Vilegard Tavern.\nAnd finally another spy in Crossglen, Leta. I believe you know her.",
+        "message":"You have to retrieve information from our spies.\nThe first one is a spy in Crossglen, Leta. I believe you know her.\nOne of our veteran spies, Dunla, is disguised as a vendor in Vilegard Tavern.\nAnd finally we have Fanamor, watching what is happening around Crossroads Guardhouse. Search for them in this order.",
         "replies":[
             {
                 "text":"N",
@@ -1126,7 +1126,7 @@
                 "nextPhraseID":"umar_guild_5a"
             },
             {
-                "text":"I'm still confused,sorry.",
+                "text":"I'm still confused, sorry.",
                 "nextPhraseID":"umar_guild_5b"
             }
         ]
@@ -1992,7 +1992,7 @@
     },
     {
         "id":"guild02_hatchlever_2a",
-        "message":"This is probably the place Troublemaker mentioned. You see a crowbar with a locked chain that surrounds the whole mechanism, stopping it from moving.The key seems to fit into the lock.",
+        "message":"This is probably the place Troublemaker mentioned. You see a crowbar with a locked chain that surrounds the whole mechanism, stopping it from moving. The key seems to fit into the lock.",
         "replies":[
             {
                 "text":"Put the key into the lock.",
@@ -2162,7 +2162,7 @@
         "message":"Wh...What do you want? What have you done to me? Where in the world am I? Answer me!",
         "replies":[
             {
-                "text":"That does not concern you.Take this food please.",
+                "text":"That does not concern you. Take this food please.",
                 "nextPhraseID":"ambelie_guild02_9a"
             },
             {
@@ -2211,7 +2211,7 @@
     },
     {
         "id":"ambelie_guild02_11",
-        "message":"S...sorry,please... Yes I'm hungry... Will you give me that? *sniffs*",
+        "message":"S...sorry, please... Yes I'm hungry... Will you give me that? *sniffs*",
         "replies":[
             {
                 "text":"[Give the Bread]",
@@ -2497,7 +2497,7 @@
             },
             {
                 "rewardType":"activateMapObjectGroup",
-                "rewardID":"Keys",
+                "rewardID":"Keys_guild",
                 "mapName":"fallhaven_nw"
             },
             {
@@ -3573,7 +3573,7 @@
     },
     {
         "id":"FeygardSerg_guild03_6",
-        "message":"We reached these passages via a forest cavern, and went through the beasts without any major problem. Suddenly,the suspect appeared with a group of men, probably his allies or subordinates...",
+        "message":"We reached these passages via a forest cavern, and went through the beasts without any major problem. Suddenly, the suspect appeared with a group of men, probably his allies or subordinates...",
         "replies":[
             {
                 "text":"N",
@@ -3775,7 +3775,7 @@
     },
     {
         "id":"guild03_crackshot_1",
-        "message":"Oh ho! Welcome to my base,kid.",
+        "message":"Oh ho! Welcome to my base, kid.",
         "switchToNPC":"g03_crackshot",
         "replies":[
             {
