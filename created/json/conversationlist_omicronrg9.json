@@ -3915,11 +3915,6 @@
                 "value":40
             },
             {
-                "rewardType":"deactivateMapObjectGroup",
-                "rewardID":"Keys2",
-                "mapName":"crackshot_hideout3"
-            },
-            {
                 "rewardType":"removeQuestProgress",
                 "rewardID":"thieves_hidden",
                 "value":20
@@ -4750,11 +4745,6 @@
                 "rewardType":"questProgress",
                 "rewardID":"Thieves03",
                 "value":35
-            },
-            {
-                "rewardType":"activateMapObjectGroup",
-                "rewardID":"Keys2",
-                "mapName":"crackshot_hideout3"
             }
         ]
     },
@@ -4769,6 +4759,27 @@
             {
                 "text":"I'll do that.",
                 "nextPhraseID":"X"
+            }
+        ]
+    },
+    {
+        "id":"guild03_hideout3_exit_select",
+        "replies":[
+            {
+                "nextPhraseID":"guild03_hideout3_exit_1",
+                "requires":[
+                    {
+                        "requireType":"killedMonster",
+                        "requireID":"g03_crackshot",
+                        "value":1
+                    },
+                    {
+                        "requireType":"questProgress",
+                        "requireID":"Thieves03",
+                        "value":40,
+                        "negate":true
+                    }
+                ]
             }
         ]
     }
