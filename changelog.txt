@@ -1,30 +1,25 @@
-New things in V 0.7.6
+New things in version 0.7.6
 
 Content
 	Three quests with well known thieves
 	Five new maps
 
 Translations
-	There were actions in the languages:
-		ar, cs, el, es, fr, it, ja, ko, nb, pa, pl, pt rBR, pt, ru, tr, zh rCN
-	But I don't know how much.
-	Maybe it is better to list the completed rate per languages (>20%)?
-		100% Belarusian
-		100% Italian
-		100% Polish
-		100% Russian
-		100% Spanish
-		99% German
-		87% Portuguese
-		84% Portuguese Brazil
-		65% Basque
-		64%	French
-		48% Hungarian
-		20% Czech
-		20% Turkish
+Completion rate > 20%:
+	100% Belarusian, Italian, Polish, Russian, Spanish
+	99% German
+	87% Portuguese
+	84% Portuguese Brazil
+	65% Basque
+	64% French
+	48% Hungarian
+	20% Czech
+	20% Turkish
+This was the state before release 0.7.6  
+Every new content will be still in English. It will be available for translation in Weblate in a few weeks.
 
 Code
--	Chance in requirements
+	Chance in requirements
 
 Etc.	
-- Several typos corrected
+	Several typos corrected
